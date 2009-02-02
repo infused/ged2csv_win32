@@ -1,0 +1,30 @@
+:Base ged2csv.hlp
+:Title ged2csv
+1 Getting Started
+2 Installation=Installation
+2 Installed Files=Installed_Files
+2 Basic Operations=Basic_Operations
+2 Uninstallation=Uninstallation
+1 Tools
+2 Options
+3 General Options=General_Options
+3 Delimited File Options=Delimited_File_Options
+3 MS Access Database Options=MS_Access_Database_Options
+3 PHP/MySQL Options=PHP/MySQL_Options
+2 Upload to MySQL
+3 Upload to MySQL Overview=Upload_to_MySQL_Overview
+3 How it works=How_it_works
+1 Output Format
+2 Citation Records=Citation_Records
+2 Fact Records=Fact_Records
+2 Family Records=Family_Records
+2 Individual Records=Individual_Records
+2 Note Records=Note_Records
+2 Relationship Records=Relationship_Records
+2 Source Records=Source_Records
+1 Support
+2 Known Issues=Known_Issues
+2 Supported Gedcom Tags=Supported_Gedcom_Tags
+2 Contacting Support=Contacting_Support
+2 Registration=Registration
+2 Updates=Updates

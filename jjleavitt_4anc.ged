@@ -1,0 +1,1602 @@
+0 HEAD
+1 SOUR Legacy
+2 VERS 5.0
+2 NAME Legacy (R)
+2 CORP Millennia Corp.
+3 ADDR PO Box 66
+4 CONT El Mirage, AZ 85335
+1 DEST PAF
+1 DATE 6 May 2004
+1 SUBM @S0@
+1 FILE WALF-MF-6May2004-231.ged
+1 GEDC
+2 VERS 
+2 FORM LINEAGE_LINKED
+1 CHAR ANSI
+0 @S0@ SUBM
+1 NAME Joseph V. Leavitt
+1 ADDR WALF Database Manager
+2 CONT Yorba Linda, CA 92886
+0 @I100743@ INDI
+1 NAME Thomas Rowell /Leavitt/
+1 SEX M
+1 BIRT
+2 DATE 30 Jun 1834
+2 PLAC Compton, Compton, Quebec, Canada
+1 DEAT
+2 DATE 21 May 1891
+2 PLAC Cardston, , Alberta, Canada
+1 BURI
+2 DATE 24 May 1891
+2 PLAC Cardston, , Alberta, Canada
+1 REFN @91450
+1 AFN 1B3N-V8
+1 FAMS @F34204@
+1 FAMS @F4842@
+1 FAMS @F5652@
+1 FAMC @F4843@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I10691@ INDI
+1 NAME Sarah /Leavitt/
+1 SEX F
+1 BIRT
+2 DATE 10 Aug 1795
+2 PLAC , , New Hampshire
+1 DEAT
+2 DATE 4 Sep 1873
+2 PLAC Albany, Orleans, Vermont
+1 BURI
+2 PLAC South Albany, Orleans, Vermont, E.C. Rowell Cemetery
+1 REFN @9146
+1 FAMS @F3746@
+1 FAMC @F4054@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I10694@ INDI
+1 NAME Hannah /Leavitt/
+1 SEX F
+1 BIRT
+2 DATE 26 Dec 1805
+2 PLAC St Johnsbury, Caledonia, Vermont
+1 DEAT
+2 DATE 5 Nov 1876
+2 PLAC Parowan, Iron, Utah
+1 BURI
+2 DATE 7 Nov 1876
+2 PLAC Parowan, Iron, Utah
+1 REFN @9140
+1 AFN 35ZK-1X
+1 FAMS @F4055@
+1 FAMC @F4054@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I114128@ INDI
+1 NAME Carol Ann /Leavitt/
+1 SEX F
+1 FAMS @F39118@
+1 FAMC @F6607@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I114129@ INDI
+1 NAME Sandra Rena /Leavitt/
+1 SEX F
+1 FAMS @F39119@
+1 FAMC @F6607@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I114130@ INDI
+1 NAME Margaret Mardell /Leavitt/
+1 SEX F
+1 FAMS @F39180@
+1 FAMS @F39121@
+1 FAMC @F6607@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I114131@ INDI
+1 NAME Jesse Maurine /Leavitt/
+1 SEX F
+1 FAMS @F39122@
+1 FAMC @F6607@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I114132@ INDI
+1 NAME Jesse Jay /Leavitt/
+1 SEX M
+1 FAMS @F39123@
+1 FAMC @F6607@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I114133@ INDI
+1 NAME Susan Michelle /Leavitt/
+1 SEX F
+1 BIRT
+2 DATE 16 Nov 1949
+2 PLAC Salt Lake City, Salt Lake, Utah
+1 DEAT
+2 DATE Nov 1949
+2 PLAC Salt Lake City, Salt Lake, Utah
+1 BURI
+2 DATE Nov 1949
+2 PLAC Murray, Salt Lake, Utah
+1 FAMC @F6607@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I12655@ INDI
+1 NAME Betsey Jane /Leavitt/
+1 SEX F
+1 BIRT
+2 DATE 12 May 1839
+2 PLAC Twelve Mile Grove, Adams, Illinois
+1 DEAT
+2 DATE 12 Sep 1917
+2 PLAC Safford, Graham, Arizona
+1 BURI
+2 DATE 14 Sep 1917
+2 PLAC Safford, Graham, Arizona
+1 REFN @9145a
+1 FAMS @F4802@
+1 FAMC @F4843@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I12753@ INDI
+1 NAME Sarah /Shannon/
+1 SEX F
+1 BIRT
+2 DATE 1765-1766
+2 PLAC Chester, Rockingham, New Hampshire
+1 CHR
+2 PLAC Exeter, Rockingham, New Hampshire
+1 DEAT
+2 DATE betw Sep 1837 & Nov 1838
+2 PLAC Twelve Mile Grove, Will, Illinois
+1 REFN @914'
+1 AFN 1B3P-13
+1 FAMS @F4054@
+1 FAMC @F4960@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I12758@ INDI
+1 NAME Jeremiah /Leavitt/
+1 TITL III
+1 SEX M
+1 BIRT
+2 DATE 10 Feb 1822
+2 PLAC North Hatley, Stanstead, Quebec, Canada
+1 DEAT
+2 DATE 12 Apr 1878
+2 PLAC Gunlock, Washington, Utah
+1 BURI
+2 DATE 14 Apr 1878
+2 PLAC Gunlock, Washington, Utah
+1 REFN @91454
+1 FAMS @F4965@
+1 FAMC @F4843@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I12782@ INDI
+1 NAME John Thomas /Waite/
+1 SEX M
+1 BIRT
+2 DATE 6 Jan 1867
+2 PLAC Gosberton, Leeds, Lincolnshire, England
+1 DEAT
+2 DATE 23 Sep 1882
+1 REFN @9145496'
+1 FAMS @F4990@
+1 FAMC @F4991@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I12800@ INDI
+1 NAME John /Leavitt/
+1 SEX M
+1 BIRT
+2 DATE 27 Jul 1798
+2 PLAC Exeter, Rockingham, New Hampshire
+1 DEAT
+2 DATE 17 Feb 1852
+2 PLAC Cambria, Hillsdale, Michigan
+1 REFN @9147
+1 AFN 1818-1X
+1 FAMS @F5011@
+1 FAMC @F4054@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I12989@ INDI
+1 NAME Lemuel Sturtevant /Leavitt/
+1 SEX M
+1 BIRT
+2 DATE 3 Nov 1827
+2 PLAC Compton, Compton, Quebec, Canada
+1 DEAT
+2 DATE 13 Oct 1916
+2 PLAC Santa Clara, Washington, Utah
+1 BURI
+2 DATE 14 Oct 1916
+2 PLAC Santa Clara, Washington, Utah
+1 REFN @91457
+1 FAMS @F5203@
+1 FAMS @F5204@
+1 FAMS @F5205@
+1 FAMS @F5206@
+1 FAMC @F4843@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I12991@ INDI
+1 NAME Rebecca /Gibbons/
+1 SEX F
+1 BIRT
+2 DATE 14 Jan 1843
+2 PLAC Moulton, Moulton, Lincolnshire, England
+1 CHR
+2 DATE 14 May 1843
+2 PLAC Moulton, Moulton, Lincolnshire, England
+1 DEAT
+2 DATE 17 Oct 1895
+2 PLAC Bunkerville, Clark, Nevada
+1 BURI
+2 DATE 18 Oct 1895
+2 PLAC Bunkerville, Clark, Nevada
+1 REFN @91457""
+1 FAMS @F4991@
+1 FAMS @F5206@
+1 FAMC @F5208@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I12992@ INDI
+1 NAME Laura Melvina /Thompson/
+1 SEX F
+1 BIRT
+2 DATE 18 Dec 1833
+2 PLAC Livonia, Livingston, New York
+1 DEAT
+2 DATE 8 Oct 1862
+2 PLAC Santa Clara, Washington, Utah
+1 BURI
+2 DATE 9 Oct 1862
+2 PLAC Santa Clara, Washington, Utah
+1 REFN @91457'
+1 FAMS @F5203@
+1 FAMC @F5209@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I12993@ INDI
+1 NAME Lemuel Sturtevant /Leavitt/
+1 TITL Jr
+1 SEX M
+1 BIRT
+2 DATE 6 Nov 1852
+2 PLAC Tooele, Tooele, Utah
+1 DEAT
+2 DATE 27 Jun 1883
+1 REFN @914572
+1 FAMS @F5210@
+1 FAMS @F5211@
+1 FAMC @F5203@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I13048@ INDI
+1 NAME Lydia /Leavitt/
+1 SEX F
+1 BIRT
+2 DATE 1797
+2 PLAC , , New Hampshire
+1 DEAT
+2 DATE Aft 1860
+2 PLAC Lawrenceville, St Lawrence, New York
+1 BURI
+2 PLAC Lawrenceville, St Lawrence, New York, Hillside Cem.
+1 REFN @9143
+1 AFN FTBD-N9
+1 FAMS @F5262@
+1 FAMC @F4054@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I13060@ INDI
+1 NAME Lydia /Leavitt/
+1 SEX F
+1 BIRT
+2 DATE 4 Jul 1823
+2 PLAC Hatley, Stanstead, Quebec, Canada
+1 DEAT
+2 DATE 9 Jan 1847
+2 PLAC Council Point, Pottawattamie, Iowa
+1 BURI
+2 DATE Abt 10 Jan 1847
+2 PLAC Winter Quarters, Florence, Nebraska
+1 REFN @91455
+1 FAMS @F5274@
+1 FAMC @F4843@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I13153@ INDI
+1 NAME Mary Amelia /Leavitt/
+1 SEX F
+1 BIRT
+2 DATE 10 Feb 1832
+2 PLAC Compton, Compton, Quebec, Canada
+1 DEAT
+2 DATE 12 Aug 1893
+2 PLAC Mount Graham, Graham, Arizona
+1 BURI
+2 DATE 12 Aug 1893
+2 PLAC Pima, Graham, Arizona
+1 REFN @91459
+1 AFN 1H29-46
+1 FAMS @F4839@
+1 FAMC @F4843@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I13236@ INDI
+1 NAME Nathaniel /Leavitt/
+1 SEX M
+1 BIRT
+2 DATE 1790
+2 PLAC Chester, Rockingham, New Hampshire
+1 DEAT
+2 DATE 1838
+2 PLAC White Pigeon, St Joseph, Michigan
+1 BURI
+2 DATE 1838
+2 PLAC White Pigeon, St Joseph, Michigan
+1 REFN @9142
+1 AFN 1S35-1T
+1 FAMS @F5056@
+1 FAMS @F5418@
+1 FAMC @F4054@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I13303@ INDI
+1 NAME Rebecca /Leavitt/
+1 SEX F
+1 BIRT
+2 DATE 27 Sep 1802
+2 PLAC Hatley, Stanstead, Quebec, Canada
+1 DEAT
+2 DATE 27 Feb 1892
+1 BURI
+2 PLAC Centerville, Davis, Utah
+1 REFN @9148
+1 AFN 1S35-6P
+1 FAMS @F5471@
+1 FAMC @F4054@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I13513@ INDI
+1 NAME Wiear /Leavitt/
+1 SEX M
+1 BIRT
+2 DATE 1785
+2 PLAC Chester, Rockingham, New Hampshire
+1 DEAT
+2 DATE 3 Mar 1839
+2 PLAC Twelve Mile Grove, Adams, Illinois
+1 BURI
+2 DATE 3 Mar 1839
+2 PLAC Twelve Mile Grove, Will, Illinois
+1 REFN @9141
+1 AFN 46SN-4G
+1 FAMS @F5669@
+1 FAMS @F5236@
+1 FAMC @F4054@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I14124@ INDI
+1 NAME Josiah /Leavitt/
+1 SEX M
+1 BIRT
+2 DATE 14 Nov 1793
+2 PLAC Hatley, Stanstead, Quebec, Canada
+1 DEAT
+2 DATE 1838
+2 PLAC Sturgess, Prairie, Michigan
+1 REFN @9144
+1 AFN FTB9W3
+1 FAMC @F4054@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I14129@ INDI
+1 NAME Louisa /Leavitt/
+1 SEX F
+1 BIRT
+2 DATE 20 Jan 1820
+2 PLAC Hatley, Stanstead, Quebec, Canada
+1 DEAT
+2 DATE 29 May 1855
+2 PLAC Council Bluffs, Pottawattamie, Iowa
+1 BURI
+2 DATE Abt 30 May 1855
+1 REFN @91453
+1 AFN 1H29-0H
+1 FAMS @F6130@
+1 FAMC @F4843@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I14133@ INDI
+1 NAME Mary Mathilda /Leavitt/
+1 SEX F
+1 BIRT
+2 DATE 6 Nov 1864
+2 PLAC Santa Clara, Washington, Utah
+1 DEAT
+2 DATE 24 Dec 1919
+2 PLAC Sutherland, Millard, Utah
+1 BURI
+2 DATE 26 Dec 1919
+2 PLAC Delta, Millard, Utah
+1 REFN @914579
+1 FAMS @F6134@
+1 FAMC @F5204@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I14218@ INDI
+1 NAME Betsey /Leavitt/
+1 SEX F
+1 BIRT
+2 DATE 23 Nov 1804
+2 PLAC Hatley, Stanstead, Quebec, Canada
+1 DEAT
+2 DATE 1848
+2 PLAC Council Bluffs, Pottawattamie, Iowa
+1 REFN @9149
+1 AFN FTBF-5T
+1 FAMS @F6217@
+1 FAMC @F4054@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I14848@ INDI
+1 NAME Jeremiah /Leavitt/
+1 TITL II
+1 SEX M
+1 BIRT
+2 DATE 30 May 1796
+2 PLAC Exeter, Rockingham, New Hampshire
+1 DEAT
+2 DATE 4 Aug 1846
+2 PLAC Bonaparte, Van Buren, Iowa
+1 BURI
+2 DATE Aug 1846
+2 PLAC Bonaparte, Van Buren, Iowa
+1 REFN @9145
+1 AFN 1B3N-XL
+1 FAMS @F4843@
+1 FAMC @F4054@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I14849@ INDI
+1 NAME Clarissa /Leavitt/
+1 SEX F
+1 BIRT
+2 DATE 1 Jan 1819
+2 PLAC Lyndon, Caledonia, Vermont
+1 DEAT
+2 DATE 30 Apr 1894
+2 PLAC Lyndon, Caledonia, Vermont
+1 BURI
+2 DATE 2 May 1894
+2 PLAC Lyndon, Caledonia, Vermont
+1 REFN @91452
+1 AFN 1H28-ZC
+1 FAMS @F6586@
+1 FAMS @F6587@
+1 FAMC @F4843@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I14850@ INDI
+1 NAME Sarah /Sturtevant/
+1 SEX F
+1 BIRT
+2 DATE 5 Sep 1798
+2 PLAC Lyme, Grafton, New Hampshire
+1 DEAT
+2 DATE 5 Apr 1878
+2 PLAC Gunlock, Washington, Utah
+1 BURI
+2 DATE 7 Apr 1878
+2 PLAC Gunlock, Washington, Utah
+1 REFN @9145'
+1 AFN PLW5-90
+1 FAMS @F4843@
+1 FAMC @F6588@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I14853@ INDI
+1 NAME Wier /Leavitt/
+1 SEX M
+1 BIRT
+2 DATE 1825
+2 PLAC Hatley, Stanstead, Quebec, Canada
+1 DEAT
+2 DATE Aug 1850
+2 PLAC Trade Point, Pottawattamie, Iowa
+1 BURI
+2 DATE Aug 1850
+2 PLAC Trade Point, Pottawattamie, Iowa
+1 REFN @91456
+1 AFN 8RJD-PR
+1 FAMS @F5674@
+1 FAMC @F4843@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I14854@ INDI
+1 NAME Don Lemuel /Sturtevant/
+1 SEX M
+1 BIRT
+2 DATE 9 Nov 1756
+2 PLAC Halifax, Plymouth, Massachusetts
+1 CHR
+2 DATE 23 Nov 1756
+2 PLAC Middleboro, Plymouth, Massachusetts
+1 DEAT
+2 DATE 15 Nov 1839
+2 PLAC Barton, Orleans, Vermont
+1 BURI
+2 DATE 20 Nov 1839
+2 PLAC Barton, Orleans, Vermont
+1 REFN @9145+
+1 FAMS @F6588@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I14855@ INDI
+1 NAME Mary Ann /Leavitt/
+1 SEX F
+1 BIRT
+2 DATE Feb 1818
+2 PLAC Lyndon, Caledonia, Vermont
+1 DEAT
+2 DATE Feb 1818
+1 REFN @91451
+1 AFN 1H28-X6
+1 FAMC @F4843@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I14856@ INDI
+1 NAME Betsy Amelia /Mortensen/
+1 SEX F
+1 BIRT
+2 DATE 20 Feb 1840
+2 PLAC Gelballe, Skanderup, Ribe, Denmark
+1 CHR
+2 DATE 5 Apr 1840
+2 PLAC Gelballe, Skanderup, Ribe, Denmark
+1 DEAT
+2 DATE 4 Aug 1867
+2 PLAC Santa Clara, Washington, Utah
+1 BURI
+2 DATE Aug 1867
+2 PLAC Santa Clara, Washington, Utah
+1 REFN @91457"
+1 FAMS @F5204@
+1 FAMC @F6591@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I14857@ INDI
+1 NAME Dudley /Leavitt/
+1 TITL Sr.
+1 SEX M
+1 BIRT
+2 DATE 31 Aug 1830
+2 PLAC Hatley, Stanstead, Quebec, Canada
+1 DEAT
+2 DATE 15 Oct 1908
+2 PLAC Bunkerville, Clark, Nevada
+1 BURI
+2 DATE 16 Oct 1908
+2 PLAC Bunkerville, Clark, Nevada
+1 REFN @91458
+1 FAMS @F5448@
+1 FAMS @F4861@
+1 FAMS @F5326@
+1 FAMS @F6592@
+1 FAMS @F6593@
+1 FAMC @F4843@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I14859@ INDI
+1 NAME Sarah Priscilla /Leavitt/
+1 SEX F
+1 BIRT
+2 DATE 8 May 1841
+2 PLAC Nauvoo, Hancock, Illinois
+1 DEAT
+2 DATE 23 Jul 1927
+2 PLAC Alpine, Apache, Arizona
+1 BURI
+2 DATE 25 Jul 1927
+2 PLAC Alpine, Apache, Arizona
+1 REFN @9145b
+1 AFN 17L3-ZR
+1 FAMS @F5585@
+1 FAMC @F4843@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I14862@ INDI
+1 NAME Priscilla /Thomson/
+1 SEX F
+1 BIRT
+2 DATE 11 Apr 1760
+2 PLAC Middleboro, Plymouth, Massachusetts
+1 DEAT
+2 DATE 4 Jul 1842
+2 PLAC Barton, Orleans, Vermont
+1 BURI
+2 DATE Jul 1842
+2 PLAC Barton, Orleans, Vermont
+1 REFN @9145:
+1 FAMS @F6588@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I14883@ INDI
+1 NAME Violet Arden /Leavitt/
+1 SEX F
+1 BIRT
+2 DATE 17 Jun 1935
+2 PLAC Salt Lake City, Salt Lake, Utah
+1 DEAT
+2 DATE 21 Jul 1990
+2 PLAC Sandy, Salt Lake, Utah
+1 BURI
+2 DATE Jul 1990
+2 PLAC Sandy, Salt Lake, Utah
+1 REFN @91457d21
+1 FAMS @F39120@
+1 FAMC @F6607@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I14884@ INDI
+1 NAME Phebe Violet /Reeves/
+1 SEX F
+1 BIRT
+2 DATE 5 Aug 1909
+2 PLAC Salt Lake City, Salt Lake, Utah
+1 DEAT
+2 DATE 6 Nov 1981
+2 PLAC Bountiful, Davis, Utah
+1 BURI
+2 DATE Nov 1981
+2 PLAC Sandy, Salt Lake, Utah
+1 REFN @91457d2'
+1 FAMS @F6607@
+1 FAMC @F39117@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I14885@ INDI
+1 NAME Jesse James /Leavitt/
+1 SEX M
+1 BIRT
+2 DATE 5 Dec 1911
+2 PLAC Hinckley, Millard, Utah
+1 DEAT
+2 DATE 6 Nov 1976
+2 PLAC Salt Lake City, Salt Lake, Utah
+1 BURI
+2 DATE 9 Nov 1976
+2 PLAC Sandy, Salt Lake, Utah
+1 REFN @91457d2
+1 FAMS @F6607@
+1 FAMC @F6608@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I15711@ INDI
+1 NAME Laura Melvina /Leavitt/
+1 SEX F
+1 BIRT
+2 DATE 4 Aug 1851
+2 PLAC Tooele, Tooele, Utah
+1 DEAT
+2 DATE 13 Feb 1922
+2 PLAC Santa Clara, Washington, Utah
+1 BURI
+2 DATE 15 Feb 1922
+2 PLAC Santa Clara, Washington, Utah
+1 REFN @914571
+1 FAMS @F7072@
+1 FAMC @F5203@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I15849@ INDI
+1 NAME Joseph /Leavitt/
+1 SEX M
+1 BIRT
+2 DATE 21 Dec 1882
+2 PLAC Bunkerville, Clark, Nevada
+1 DEAT
+2 DATE 1 Jan 1883
+2 PLAC Bunkerville, Clark, Nevada
+1 REFN @91457b
+1 FAMC @F5206@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I15872@ INDI
+1 NAME Lovisa /Leavitt/
+1 SEX F
+1 BIRT
+2 DATE 22 Oct 1861
+2 PLAC Santa Clara, Washington, Utah
+1 DEAT
+2 DATE 6 Apr 1917
+2 PLAC Mesquite, Clark, Nevada
+1 BURI
+2 DATE 7 Apr 1917
+2 PLAC Bunkerville, Clark, Nevada
+1 REFN @914578
+1 FAMS @F7186@
+1 FAMS @F7187@
+1 FAMS @F7188@
+1 FAMC @F5203@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I16059@ INDI
+1 NAME Herbert William /Waite/
+1 SEX M
+1 BIRT
+2 DATE 12 Apr 1868
+2 PLAC , Goshberton, Lincolnshire, England
+1 DEAT
+2 DATE 9 Jul 1948
+2 PLAC Bunkerville, Clark, Nevada
+1 BURI
+2 DATE 12 Jul 1948
+2 PLAC Bunkerville, Clark, Nevada
+1 REFN @91458x'
+1 FAMS @F4815@
+1 FAMC @F4991@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I16242@ INDI
+1 NAME Jesse /Waite/
+1 SEX M
+1 BIRT
+2 DATE 26 Jun 1872
+2 PLAC Hyde Park, Cache, Utah
+1 CHR
+2 DATE 6 Oct 1872
+2 PLAC Hyde Park, Cache, Utah
+1 DEAT
+2 DATE 5 Jun 1938
+2 PLAC Bunkerville, Clark, Nevada
+1 BURI
+2 DATE 6 Jun 1938
+2 PLAC Bunkerville, Clark, Nevada
+1 REFN @91458y'
+1 FAMS @F7399@
+1 FAMC @F4991@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I16459@ INDI
+1 NAME Jeremiah /Leavitt/
+1 SEX M
+1 BIRT
+2 DATE 10 Jul 1760
+2 PLAC Exeter, Rockingham, New Hampshire
+1 DEAT
+2 DATE 1817
+2 PLAC Hatley, Stanstead, Quebec, Canada
+1 BURI
+2 PLAC Hatley, Stanstead, Quebec, Canada
+1 REFN 1427517914
+1 AFN 1B3P-0W
+1 FAMS @F4054@
+1 FAMC @F4998@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I16568@ INDI
+1 NAME Orange Decator /Leavitt/
+1 SEX M
+1 BIRT
+2 DATE 10 Dec 1859
+2 PLAC Santa Clara, Washington, Utah
+1 DEAT
+2 DATE 2 Jan 1918
+2 PLAC Bunkerville, Clark, Nevada
+1 BURI
+2 DATE 3 Jan 1918
+2 PLAC Bunkerville, Clark, Nevada
+1 REFN @914576
+1 FAMS @F6145@
+1 FAMS @F7368@
+1 FAMC @F5203@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I17087@ INDI
+1 NAME Thomas Dudley /Leavitt/
+1 SEX M
+1 BIRT
+2 DATE 8 Nov 1857
+2 PLAC Santa Clara, Washington, Utah
+1 CHR
+2 PLAC Santa Clara, Washington, Utah
+1 DEAT
+2 DATE 25 Aug 1933
+2 PLAC Bunkerville, Clark, Nevada
+1 BURI
+2 DATE 26 Aug 1933
+2 PLAC Bunkerville, Clark, Nevada
+1 REFN @914575
+1 FAMS @F4816@
+1 FAMS @F5190@
+1 FAMC @F5203@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I17111@ INDI
+1 NAME Thomas /Gibbons/
+1 SEX M
+1 BIRT
+2 DATE 13 Apr 1813
+2 PLAC , Aslackby, Lincolnshire, England
+1 DEAT Y
+1 REFN @91457+++
+1 FAMS @F5208@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I17131@ INDI
+1 NAME Adah Ann /Waite/
+1 SEX F
+1 BIRT
+2 DATE 9 Jun 1869
+2 PLAC Gosberton, Leeds, Yorkshire, England
+1 DEAT
+2 DATE 30 May 1931
+2 PLAC Bunkerville, Clark, Nevada
+1 BURI
+2 DATE 31 May 1931
+2 PLAC Bunkerville, Clark, Nevada
+1 REFN @914575"
+1 FAMS @F5190@
+1 FAMC @F4991@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I17210@ INDI
+1 NAME Wanda /Leavitt/
+1 SEX F
+1 BIRT
+2 DATE 27 Jun 1919
+2 PLAC Hinckley, Millard, Utah
+1 DEAT
+2 DATE 29 Jan 2003
+2 PLAC Salt Lake City, Salt Lake, Utah
+1 BURI
+2 DATE 3 Feb 2003
+2 PLAC Salt Lake City, Salt Lake, Utah
+1 REFN @91457d7
+1 FAMS @F7944@
+1 FAMC @F6608@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I17349@ INDI
+1 NAME Sarah Rebecca /Waite/
+1 SEX F
+1 BIRT
+2 DATE 17 Jan 1877
+2 PLAC St George, Washington, Utah
+1 DEAT
+2 DATE 20 Aug 1898
+1 REFN @91458k.
+1 FAMS @F7920@
+1 FAMC @F4991@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I17609@ INDI
+1 NAME Rebecca /White/
+1 SEX F
+1 CHR
+2 DATE 30 Aug 1816
+2 PLAC Spalding, Lincolnshire, England
+1 DEAT Y
+1 REFN @91457:::
+1 FAMS @F5208@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I17865@ INDI
+1 NAME Lemuel Alfred /Leavitt/
+1 SEX M
+1 BIRT
+2 DATE 18 Dec 1877
+2 PLAC Santa Clara, Washington, Utah
+1 DEAT
+2 DATE 18 Dec 1877
+2 PLAC Santa Clara, Washington, Utah
+1 REFN @91457a
+1 FAMC @F5205@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I17866@ INDI
+1 NAME Mary Ann /Morgan/
+1 SEX F
+1 BIRT
+2 DATE 16 Jan 1835
+2 PLAC Whitecroft, In Newland, Gloucestershire, England
+1 DEAT
+2 DATE 12 Jan 1922
+1 REFN @91457"'
+1 FAMS @F5207@
+1 FAMS @F7110@
+1 FAMS @F5205@
+1 FAMC @F8227@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I17867@ INDI
+1 NAME William Noble /Waite/
+1 SEX M
+1 BIRT
+2 DATE 10 May 1845
+2 PLAC Gosberton, Gosberton, Lincolnshire, England
+1 DEAT
+2 DATE 10 Apr 1879
+2 PLAC Santa Clara, Washington, Utah
+1 BURI
+2 DATE 12 Apr 1879
+2 PLAC Santa Clara, Washington, Utah
+1 REFN @91458b+
+1 FAMS @F4991@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I17871@ INDI
+1 NAME Edward Washington /Leavitt/
+1 SEX M
+1 BIRT
+2 DATE 1 Jan 1854
+2 PLAC Tooele, Tooele, Utah
+1 DEAT
+2 DATE 3 Feb 1931
+2 PLAC Mesquite, Clark, Nevada
+1 BURI
+2 DATE 5 Feb 1931
+2 PLAC Bunkerville, Clark, Nevada
+1 REFN @914573
+1 FAMS @F5789@
+1 FAMC @F5203@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I17872@ INDI
+1 NAME Deborah Jane /Leavitt/
+1 SEX F
+1 BIRT
+2 DATE 15 Jan 1856
+2 PLAC Tooele, Tooele, Utah
+1 DEAT
+2 DATE 21 Feb 1914
+2 PLAC Escalante, Garfield, Utah
+1 BURI
+2 DATE 24 Feb 1914
+2 PLAC Escalante, Garfield, Utah
+1 REFN @914574
+1 FAMS @F8229@
+1 FAMC @F5203@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I19194@ INDI
+1 NAME Lovina /Leavitt/
+1 TITL Twin
+1 SEX F
+1 BIRT
+2 DATE 22 Oct 1861
+2 PLAC Santa Clara, Washington, Utah
+1 DEAT
+2 DATE 22 Oct 1862
+2 PLAC Santa Clara, Washington, Utah
+1 REFN @914577
+1 FAMC @F5203@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I19196@ INDI
+1 NAME Mary Ann /Leavitt/
+1 SEX F
+1 BIRT
+2 DATE 15 Dec 1884
+2 PLAC Bunkerville, Clark, Nevada
+1 DEAT
+2 DATE 19 Apr 1937
+1 REFN @91457c
+1 FAMC @F5206@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I19197@ INDI
+1 NAME Alonzo Rowell /Leavitt/
+1 SEX M
+1 BIRT
+2 DATE 6 Jan 1887
+2 PLAC Bunkerville, Clark, Nevada
+1 DEAT
+2 DATE 22 Dec 1966
+2 PLAC Salt Lake City, Salt Lake, Utah
+1 BURI
+2 DATE 24 Dec 1966
+2 PLAC Salt Lake City, Salt Lake, Utah
+1 REFN @91457d
+1 FAMS @F6608@
+1 FAMC @F5206@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I19264@ INDI
+1 NAME Mary Elizabeth /Waite/
+1 SEX F
+1 BIRT
+2 DATE 13 Mar 1873
+2 PLAC Hyde Park, Cache, Utah
+1 DEAT
+2 DATE 19 Feb 1955
+2 PLAC Las Vegas, Clark, Nevada
+1 BURI
+2 DATE Feb 1955
+2 PLAC Bunkerville, Clark, Nevada
+1 REFN @91458b'
+1 FAMS @F8718@
+1 FAMS @F6905@
+1 FAMS @F7316@
+1 FAMC @F4991@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I19599@ INDI
+1 NAME Mary Ann /Daly/
+1 SEX F
+1 BIRT
+2 DATE 4 Dec 1888
+2 PLAC Panguitch, Garfield, Utah
+1 DEAT
+2 DATE 4 Jan 1955
+2 PLAC Salt Lake City, Salt Lake, Utah
+1 BURI
+2 DATE 7 Jan 1955
+2 PLAC Salt Lake City, Salt Lake, Utah
+1 REFN @91457d'
+1 FAMS @F6608@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I19600@ INDI
+1 NAME Nellie /Leavitt/
+1 SEX F
+1 BIRT
+2 DATE 15 Nov 1910
+2 PLAC Panguitch, Garfield, Utah
+1 DEAT
+2 DATE 5 Feb 1911
+1 REFN @91457d1
+1 FAMC @F6608@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I19602@ INDI
+1 NAME Ada /Leavitt/
+1 SEX F
+1 BIRT
+2 DATE 8 Mar 1913
+2 PLAC Hinckley, Millard, Utah
+1 DEAT
+2 DATE 5 Jan 2003
+2 PLAC Salt Lake City, Salt Lake, Utah
+1 BURI
+2 DATE 8 Jan 2003
+1 REFN @91457d3
+1 FAMS @F8905@
+1 FAMC @F6608@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I19603@ INDI
+1 NAME Meleta /Leavitt/
+1 SEX F
+1 BIRT
+2 DATE 3 May 1914
+2 PLAC Hinckley, Millard, Utah
+1 DEAT
+2 DATE 21 Mar 1915
+1 REFN @91457d4
+1 FAMC @F6608@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I19604@ INDI
+1 NAME Verda /Leavitt/
+1 SEX F
+1 BIRT
+2 DATE 11 Oct 1915
+2 PLAC Hinckley, Millard, Utah
+1 DEAT
+2 DATE 26 Apr 1993
+2 PLAC Salt Lake City, Salt Lake, Utah
+1 BURI
+2 DATE 30 Apr 1993
+2 PLAC Salt Lake City, Salt Lake, Utah
+1 REFN @91457d5
+1 FAMS @F43616@
+1 FAMC @F6608@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I19605@ INDI
+1 NAME Mary /Leavitt/
+1 SEX F
+1 BIRT
+2 DATE 8 Jul 1917
+2 PLAC Hinckley, Millard, Utah
+1 DEAT
+2 DATE 26 Dec 1999
+2 PLAC Sandy, Salt Lake, Utah
+1 BURI
+2 DATE 30 Dec 1999
+2 PLAC Salt Lake City, Salt Lake, Utah
+1 REFN @91457d6
+1 FAMS @F8906@
+1 FAMC @F6608@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I19606@ INDI
+1 NAME Harold Daly /Leavitt/
+1 SEX M
+1 FAMS @F8907@
+1 FAMC @F6608@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I19607@ INDI
+1 NAME Don Lee /Leavitt/
+1 SEX M
+1 FAMS @F8908@
+1 FAMC @F6608@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I28396@ INDI
+1 NAME Lemuel /Sturtevant/
+1 SEX M
+1 BIRT
+2 DATE 30 Jan 1781
+2 PLAC Lyme, Grafton, New Hampshire
+1 CHR
+2 DATE 23 Jun 1781
+1 DEAT
+2 DATE 15 Nov 1863
+2 PLAC Barton, Orleans, Vermont
+1 REFN @91452+
+1 FAMS @F6701@
+1 FAMC @F6588@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I28916@ INDI
+1 NAME Lorenzo Calvin /Leavitt/
+1 SEX M
+1 BIRT
+2 DATE 16 Nov 1874
+2 PLAC Santa Clara, Washington, Utah
+1 DEAT
+2 DATE 24 Feb 1957
+2 PLAC Santa Clara, Washington, Utah
+1 BURI
+2 DATE 27 Feb 1957
+2 PLAC Santa Clara, Washington, Utah
+1 REFN @914570
+1 FAMS @F7164@
+1 FAMC @F5205@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I52687@ INDI
+1 NAME Myrtle /Leavitt/
+1 TITL Twin
+1 SEX F
+1 BIRT
+2 DATE 23 Dec 1924
+2 PLAC Salt Lake City, Salt Lake, Utah
+1 DEAT
+2 DATE 5 Jan 1925
+1 REFN @91457d0
+1 FAMC @F6608@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I52688@ INDI
+1 NAME Merlin /Leavitt/
+1 TITL Twin
+1 SEX M
+1 BIRT
+2 DATE 23 Dec 1924
+2 PLAC Salt Lake City, Salt Lake, Utah
+1 DEAT
+2 DATE 30 Dec 1924
+1 REFN @91457da
+1 FAMC @F6608@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I52689@ INDI
+1 NAME Reva /Leavitt/
+1 SEX F
+1 FAMS @F20020@
+1 FAMC @F6608@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I52690@ INDI
+1 NAME Dorothy May /Leavitt/
+1 SEX F
+1 FAMS @F20021@
+1 FAMC @F6608@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I52691@ INDI
+1 NAME Geraldine /Leavitt/
+1 SEX F
+1 FAMS @F20022@
+1 FAMS @F20023@
+1 FAMC @F6608@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @I52692@ INDI
+1 NAME Alonzo Rowell /Leavitt/
+1 TITL Jr
+1 SEX M
+1 FAMS @F39108@
+1 FAMC @F6608@
+1 NOTE Provided by: Joseph V. Leavitt <jleavitt2 atsign adelphia dot net (Please assemble my email address from this text)>
+0 @F20020@ FAM
+1 WIFE @I52689@
+0 @F20021@ FAM
+1 WIFE @I52690@
+0 @F20022@ FAM
+1 WIFE @I52691@
+0 @F20023@ FAM
+1 WIFE @I52691@
+0 @F34204@ FAM
+1 HUSB @I100743@
+1 MARR 
+2 DATE 1 May 1857
+2 PLAC American Fork, Utah, Utah
+0 @F3746@ FAM
+1 WIFE @I10691@
+1 MARR 
+2 DATE 22 Mar 1818
+2 PLAC Albany, Orleans, Vermont
+0 @F39108@ FAM
+1 HUSB @I52692@
+0 @F39117@ FAM
+1 CHIL @I14884@
+0 @F39118@ FAM
+1 WIFE @I114128@
+0 @F39119@ FAM
+1 WIFE @I114129@
+0 @F39120@ FAM
+1 WIFE @I14883@
+0 @F39121@ FAM
+1 WIFE @I114130@
+0 @F39122@ FAM
+1 WIFE @I114131@
+0 @F39123@ FAM
+1 HUSB @I114132@
+0 @F39180@ FAM
+1 WIFE @I114130@
+1 DIV Y
+0 @F4054@ FAM
+1 HUSB @I16459@
+1 WIFE @I12753@
+1 MARR 
+2 DATE Abt 1784
+2 PLAC Hatley, Stanstead, Quebec, Canada
+1 CHIL @I13513@
+1 CHIL @I13236@
+1 CHIL @I14124@
+1 CHIL @I14848@
+1 CHIL @I10691@
+1 CHIL @I13048@
+1 CHIL @I12800@
+1 CHIL @I13303@
+1 CHIL @I14218@
+1 CHIL @I10694@
+0 @F4055@ FAM
+1 WIFE @I10694@
+1 MARR 
+2 DATE 18 Mar 1824
+2 PLAC Hatley, Stanstead, Quebec, Canada
+0 @F43616@ FAM
+1 WIFE @I19604@
+1 MARR 
+2 DATE 1 Jun 1938
+2 PLAC Salt Lake City, Salt Lake, Utah
+0 @F4802@ FAM
+1 WIFE @I12655@
+1 MARR 
+2 DATE 24 Aug 1854
+2 PLAC Salt Lake City, Salt Lake, Utah
+0 @F4815@ FAM
+1 HUSB @I16059@
+1 MARR 
+2 DATE 7 Jan 1892
+2 PLAC St George, Washington, Utah
+0 @F4816@ FAM
+1 HUSB @I17087@
+1 MARR 
+2 DATE 14 Apr 1881
+2 PLAC of, Washington, Utah
+0 @F4839@ FAM
+1 WIFE @I13153@
+1 MARR 
+2 DATE 24 Oct 1850
+2 PLAC , , Utah
+0 @F4842@ FAM
+1 HUSB @I100743@
+1 MARR 
+2 DATE 9 Mar 1861
+2 PLAC Salt Lake City, Salt Lake, Utah
+0 @F4843@ FAM
+1 HUSB @I14848@
+1 WIFE @I14850@
+1 MARR 
+2 DATE 6 Mar 1817
+2 PLAC Barton, Orleans, Vermont
+1 CHIL @I14855@
+1 CHIL @I14849@
+1 CHIL @I14129@
+1 CHIL @I12758@
+1 CHIL @I13060@
+1 CHIL @I14853@
+1 CHIL @I12989@
+1 CHIL @I14857@
+1 CHIL @I13153@
+1 CHIL @I100743@
+1 CHIL @I12655@
+1 CHIL @I14859@
+0 @F4861@ FAM
+1 HUSB @I14857@
+1 MARR 
+2 DATE 12 Aug 1855
+2 PLAC Tooele, Tooele, Utah
+0 @F4960@ FAM
+1 MARR 
+2 DATE 31 May 1753
+2 PLAC Rye, Rockingham, New Hampshire
+1 CHIL @I12753@
+0 @F4965@ FAM
+1 HUSB @I12758@
+1 MARR 
+2 DATE 1 Feb 1845
+2 PLAC Nauvoo, Hancock, Illinois
+0 @F4990@ FAM
+1 HUSB @I12782@
+1 MARR 
+2 PLAC of, Washington, Utah
+0 @F4991@ FAM
+1 HUSB @I17867@
+1 WIFE @I12991@
+1 MARR 
+2 DATE 22 Jan 1866
+2 PLAC , Moulton, Lincolnshire, England
+1 CHIL @I12782@
+1 CHIL @I16059@
+1 CHIL @I17131@
+1 CHIL @I16242@
+1 CHIL @I19264@
+1 CHIL @I17349@
+0 @F4998@ FAM
+1 MARR 
+2 DATE 1756
+2 PLAC , Rockingham, New Hampshire
+1 CHIL @I16459@
+0 @F5011@ FAM
+1 HUSB @I12800@
+1 MARR 
+2 DATE 13 Mar 1822
+2 PLAC Sherbrooke, Sherbrooke, Quebec, Canada
+0 @F5056@ FAM
+1 HUSB @I13236@
+1 MARR 
+2 DATE 6 Mar 1812
+2 PLAC Grantham, Sullivan, New Hampshire
+0 @F5190@ FAM
+1 HUSB @I17087@
+1 WIFE @I17131@
+1 MARR 
+2 DATE 12 Oct 1887
+2 PLAC St George, Washington, Utah
+0 @F5203@ FAM
+1 HUSB @I12989@
+1 WIFE @I12992@
+1 MARR 
+2 DATE 15 Oct 1850
+2 PLAC Salt Lake City, Salt Lake, Utah
+1 CHIL @I15711@
+1 CHIL @I12993@
+1 CHIL @I17871@
+1 CHIL @I17872@
+1 CHIL @I17087@
+1 CHIL @I16568@
+1 CHIL @I19194@
+1 CHIL @I15872@
+0 @F5204@ FAM
+1 HUSB @I12989@
+1 WIFE @I14856@
+1 MARR 
+2 DATE 13 Oct 1863
+2 PLAC Santa Clara, Washington, Utah
+1 CHIL @I14133@
+0 @F5205@ FAM
+1 HUSB @I12989@
+1 WIFE @I17866@
+1 MARR 
+2 DATE Abt 17 Nov 1873
+2 PLAC of, Washington, Utah
+1 CHIL @I28916@
+1 CHIL @I17865@
+0 @F5206@ FAM
+1 HUSB @I12989@
+1 WIFE @I12991@
+1 MARR 
+2 DATE 1881
+2 PLAC of, Compton, Quebec, Canada
+1 CHIL @I15849@
+1 CHIL @I19196@
+1 CHIL @I19197@
+0 @F5207@ FAM
+1 WIFE @I17866@
+1 MARR 
+2 DATE Abt 1856
+2 PLAC of, , Gloucestershire, England
+0 @F5208@ FAM
+1 HUSB @I17111@
+1 WIFE @I17609@
+1 MARR 
+2 DATE Abt 1836
+2 PLAC of, , Lincolnshire, England
+1 CHIL @I12991@
+0 @F5209@ FAM
+1 MARR 
+2 DATE Abt 1821
+2 PLAC of, Livingston, New York
+1 CHIL @I12992@
+0 @F5210@ FAM
+1 HUSB @I12993@
+1 MARR 
+2 DATE 8 Jan 1879
+2 PLAC St George, Washington, Utah
+0 @F5211@ FAM
+1 HUSB @I12993@
+1 MARR 
+2 DATE Abt 1883
+2 PLAC of, Tooele, Utah
+0 @F5236@ FAM
+1 HUSB @I13513@
+1 MARR 
+2 DATE 11 Nov 1825
+2 PLAC of, Sherbrooke, Quebec, Canada
+0 @F5262@ FAM
+1 WIFE @I13048@
+1 MARR 
+2 DATE 1817
+2 PLAC Hatley, Stanstead, Quebec, Canada
+0 @F5274@ FAM
+1 WIFE @I13060@
+1 MARR 
+2 DATE 2 Aug 1842
+2 PLAC Nauvoo, Hancock, Illinois
+0 @F5326@ FAM
+1 HUSB @I14857@
+1 MARR 
+2 DATE 11 Aug 1859
+2 PLAC Manti, Sanpete, Utah
+0 @F5418@ FAM
+1 HUSB @I13236@
+1 MARR 
+2 DATE 25 Oct 1829
+2 PLAC Anglican Church, Hatley, Stanstead, Quebec, Canada
+0 @F5448@ FAM
+1 HUSB @I14857@
+1 MARR 
+2 DATE 30 Aug 1853
+2 PLAC Salt Lake City, Salt Lake, Utah
+0 @F5471@ FAM
+1 WIFE @I13303@
+1 MARR 
+2 DATE Jan 1820
+2 PLAC , Sullivan, New Hampshire
+0 @F5585@ FAM
+1 WIFE @I14859@
+1 MARR 
+2 DATE 11 Sep 1857
+2 PLAC Salt Lake City, Salt Lake, Utah
+0 @F5652@ FAM
+1 HUSB @I100743@
+1 MARR 
+2 DATE 26 Jun 1883
+2 PLAC Salt Lake City, Salt Lake, Utah
+0 @F5669@ FAM
+1 HUSB @I13513@
+1 MARR 
+2 DATE 1810
+2 PLAC , Sullivan, New Hampshire
+0 @F5674@ FAM
+1 HUSB @I14853@
+1 MARR 
+2 DATE Aug 1847
+2 PLAC of, , Illinois
+0 @F5789@ FAM
+1 HUSB @I17871@
+1 MARR 
+2 DATE 1 Jan 1875
+2 PLAC Santa Clara, Washington, Utah
+0 @F6130@ FAM
+1 WIFE @I14129@
+1 MARR 
+2 DATE Abt 1841
+2 PLAC of, , Quebec, Canada
+0 @F6134@ FAM
+1 WIFE @I14133@
+1 MARR 
+2 DATE 14 Apr 1881
+2 PLAC St George, Washington, Utah
+0 @F6145@ FAM
+1 HUSB @I16568@
+1 MARR 
+2 DATE 8 Jun 1882
+2 PLAC St George, Washington, Utah
+0 @F6217@ FAM
+1 WIFE @I14218@
+1 MARR 
+2 DATE 27 May 1821
+2 PLAC Angelican Church, Hatley, Stanstead, Quebec, Canada
+0 @F6586@ FAM
+1 WIFE @I14849@
+1 MARR 
+2 DATE Abt 1840
+2 PLAC of, Orleans, Quebec, Canada
+0 @F6587@ FAM
+1 WIFE @I14849@
+1 MARR 
+2 DATE 24 Jun 1873
+2 PLAC Lyndon, Caledonia, Vermont
+0 @F6588@ FAM
+1 HUSB @I14854@
+1 WIFE @I14862@
+1 MARR 
+2 DATE 23 Nov 1778
+2 PLAC Middleboro, Plymouth, Massachusetts
+1 CHIL @I14850@
+1 CHIL @I28396@
+0 @F6591@ FAM
+1 MARR 
+2 DATE <1839>
+2 PLAC of Gelballe, Skanderup, Ribe, Denmark
+1 CHIL @I14856@
+0 @F6592@ FAM
+1 HUSB @I14857@
+1 MARR 
+2 DATE 10 Mar 1860
+2 PLAC Parowan, Iron, Utah
+0 @F6593@ FAM
+1 HUSB @I14857@
+1 MARR 
+2 DATE 30 Nov 1872
+2 PLAC Salt Lake City, Salt Lake, Utah
+0 @F6607@ FAM
+1 HUSB @I14885@
+1 WIFE @I14884@
+1 MARR 
+2 DATE Abt 1934
+2 PLAC of, Salt Lake, Utah
+1 CHIL @I14883@
+1 CHIL @I114128@
+1 CHIL @I114129@
+1 CHIL @I114130@
+1 CHIL @I114131@
+1 CHIL @I114132@
+1 CHIL @I114133@
+0 @F6608@ FAM
+1 HUSB @I19197@
+1 WIFE @I19599@
+1 MARR 
+2 DATE Abt 1909
+2 PLAC of, Washington, Utah
+1 CHIL @I19600@
+1 CHIL @I14885@
+1 CHIL @I19602@
+1 CHIL @I19603@
+1 CHIL @I19604@
+1 CHIL @I19605@
+1 CHIL @I17210@
+1 CHIL @I19606@
+1 CHIL @I19607@
+1 CHIL @I52687@
+1 CHIL @I52688@
+1 CHIL @I52689@
+1 CHIL @I52690@
+1 CHIL @I52691@
+1 CHIL @I52692@
+0 @F6701@ FAM
+1 HUSB @I28396@
+1 MARR 
+2 DATE 1807
+2 PLAC , Orleans, Vermont
+0 @F6905@ FAM
+1 WIFE @I19264@
+1 MARR 
+2 DATE 26 Sep 1909
+2 PLAC Las Vegas, Clark, Nevada
+0 @F7072@ FAM
+1 WIFE @I15711@
+1 MARR 
+2 DATE 4 Mar 1872
+2 PLAC Salt Lake City, Salt Lake, Utah
+0 @F7110@ FAM
+1 WIFE @I17866@
+1 MARR 
+2 DATE Abt 1856
+2 PLAC of, , Gloucestershire, England
+0 @F7164@ FAM
+1 HUSB @I28916@
+1 MARR 
+2 DATE 31 Mar 1896
+2 PLAC of, Washington, Utah
+0 @F7186@ FAM
+1 WIFE @I15872@
+1 MARR 
+2 DATE 11 Jan 1878
+2 PLAC St George, Washington, Utah
+0 @F7187@ FAM
+1 WIFE @I15872@
+1 MARR 
+2 DATE <1884>
+2 PLAC of, Washington, Utah
+0 @F7188@ FAM
+1 WIFE @I15872@
+1 MARR 
+2 DATE <1884>
+2 PLAC of Santa Clara, Washington, Utah
+0 @F7316@ FAM
+1 WIFE @I19264@
+1 MARR 
+2 DATE <1896>
+2 PLAC of, Cache, Utah
+0 @F7368@ FAM
+1 HUSB @I16568@
+1 MARR 
+2 DATE Abt 12 Dec 1886
+2 PLAC of, Washington, Utah
+0 @F7399@ FAM
+1 HUSB @I16242@
+1 MARR 
+2 DATE 5 Jun 1894
+2 PLAC St George, Washington, Utah
+0 @F7920@ FAM
+1 WIFE @I17349@
+1 MARR 
+2 DATE 29 Jun 1898
+2 PLAC St George, Washington, Utah
+0 @F7944@ FAM
+1 WIFE @I17210@
+0 @F8227@ FAM
+1 MARR 
+2 DATE <1834>
+2 PLAC of Whitecroft, In Newland, Gloucestershire, England
+1 CHIL @I17866@
+0 @F8229@ FAM
+1 WIFE @I17872@
+1 MARR 
+2 DATE Abt 29 Oct 1877
+2 PLAC of, Washington, Utah
+0 @F8718@ FAM
+1 WIFE @I19264@
+1 MARR 
+2 DATE 26 May 1891
+2 PLAC St George, Washington, Utah
+0 @F8905@ FAM
+1 WIFE @I19602@
+1 MARR 
+2 DATE 6 Jun 1931
+2 PLAC Salt Lake City, Salt Lake, Utah
+0 @F8906@ FAM
+1 WIFE @I19605@
+0 @F8907@ FAM
+1 HUSB @I19606@
+0 @F8908@ FAM
+1 HUSB @I19607@
+0 TRLR

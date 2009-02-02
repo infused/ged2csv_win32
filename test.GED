@@ -1,0 +1,243 @@
+0 HEAD
+1 SOUR FTW
+2 VERS 10.0
+2 NAME Family Tree Maker for Windows
+2 CORP Genealogy.com
+3 ADDR 39500 Stevenson Pl. #204
+4 CONT Fremont, CA 95439
+3 PHON (510) 794-6850
+1 DEST FTW
+1 DATE 29 SEP 2002
+1 CHAR ANSI
+1 FILE C:\Program Files\FTW\data\test.GED
+1 GEDC
+2 VERS 5.5
+2 FORM LINEAGE-LINKED
+1 _SCHEMA
+2 INDI
+3 _FA1
+4 LABL Fact 1
+3 _FA2
+4 LABL Fact 2
+3 _FA3
+4 LABL Fact 3
+3 _FA4
+4 LABL Fact 4
+3 _FA5
+4 LABL Fact 5
+3 _FA6
+4 LABL Fact 6
+3 _FA7
+4 LABL Fact 7
+3 _FA8
+4 LABL Fact 8
+3 _FA9
+4 LABL Fact 9
+3 _FA10
+4 LABL Fact 10
+3 _FA11
+4 LABL Fact 11
+3 _FA12
+4 LABL Fact 12
+3 _FA13
+4 LABL Fact 13
+3 _MREL
+4 LABL Relationship to Mother
+3 _FREL
+4 LABL Relationship to Father
+2 FAM
+3 _FA1
+4 LABL Marriage fact
+3 _FA2
+4 LABL Fact 2
+3 _MSTAT
+4 LABL Marriage Beginning Status
+3 _MEND
+4 LABL Marriage Ending Status
+0 @I01@ INDI
+1 NAME Firstme Middleme /Lastme/
+1 SEX F
+1 BIRT
+2 DATE 1 JAN 1970
+2 PLAC Detroit, Michigan, USA
+1 FAMC @F1@
+0 @I02@ INDI
+1 NAME Firstfather Middlefather /Lastfather/
+1 SEX M
+1 ALIA /Jon/
+1 TITL Dr.
+1 BIRT
+2 DATE 1 JAN 1940
+2 PLAC Detroit, Michigan, USA
+1 BAPM
+2 DATE 15 JAN 1940
+2 PLAC Detroit, Michigan, USA
+1 BARM
+2 DATE 16 JAN 1970
+2 PLAC Detroit, Michigan, USA
+1 BASM
+2 DATE 17 JAN 1970
+2 PLAC Detroit, Michigan, USA
+1 BLES
+2 DATE 18 JAN 1970
+2 PLAC Detroit, Michigan, USA
+1 CENS
+2 DATE 15 JUN 1940
+2 PLAC Detroit, Michigan, USA
+1 CHR
+2 DATE 2 JAN 1940
+2 PLAC Detroit, Michigan, USA
+1 CONF
+2 DATE 9 JAN 1960
+2 PLAC Baltimore, Maryland, USA
+1 CONL
+2 DATE 10 JAN 1960
+2 PLAC Baltimore, Maryland, USA
+1 BAPL
+2 DATE 16 JAN 1940
+2 PLAC Detroit, Michigan, USA
+1 CREM
+2 DATE 31 DEC 1980
+2 PLAC Baltimore, Maryland, USA
+1 _DEG
+2 DATE 15 JUL 1965
+2 PLAC BS
+1 EDUC
+2 PLAC Some School
+1 _ELEC
+2 PLAC Mayor of Baltimore
+1 EMIG
+2 PLAC Moved to Costa Rica
+1 ENDL
+2 PLAC Well Endowed
+1 _EXCM
+2 DATE 18 FEB 1975
+2 PLAC Kicked Out
+1 FCOM
+2 PLAC Don't Remember
+1 GRAD
+2 DATE 1 AUG 1950
+2 PLAC From High School
+1 IMMI
+2 DATE 3 MAR 1945
+2 PLAC From Ireland
+1 _MILT
+2 DATE 5 AUG 1945
+2 PLAC WWII
+1 _MISN
+2 PLAC LDS MISSION
+1 _NAMS
+2 PLAC Namesake
+1 NATI
+2 PLAC Irish
+1 NATU
+2 DATE 1 JAN 1956
+1 OCCU
+2 PLAC janitor
+1 PROB
+2 DATE AFT 1940
+2 PLAC Probate
+1 RELI
+2 PLAC Catholic
+1 RESI
+2 PLAC Town
+1 RETI
+2 DATE AFT 1950
+1 SSN
+2 PLAC 555-22-5555
+1 TEMP Temple
+1 WILL
+2 PLAC Will
+1 REFN RF1223
+1 ADDR 5555 NE 18th Ave
+2 CONT
+2 CONT Poulsbo
+2 CONT WI
+2 CONT 99112
+2 CONT USA
+2 CONT dude@@danka.net
+2 PHON (555) 121-1212
+1 DEAT
+2 CAUS Inflammation of the Brain
+1 _MDCL No medical info
+1 FAMS @F1@
+1 FAMC @F2@
+1 NOTE @NI02@
+0 @NI02@ NOTE
+1 CONC Notes on Individual
+0 @I03@ INDI
+1 NAME Firstgrandf Middlegrandf /Lastgrandf/
+1 SEX M
+1 FAMS @F2@
+0 @I04@ INDI
+1 NAME Firstgrandm Middlegrandm /Lastgrandm/
+1 SEX F
+1 FAMS @F2@
+0 @I05@ INDI
+1 NAME Firstmother Middlemother /Lastmother/
+1 SEX F
+1 FAMS @F1@
+1 FAMC @F3@
+0 @I06@ INDI
+1 NAME Firstgrandfa Middlegrandfa /Lastgrandfa/
+1 SEX M
+1 FAMS @F3@
+0 @I07@ INDI
+1 NAME Firstgrandmo Middlegrandmo /Lastgrandmo/
+1 SEX F
+1 FAMS @F3@
+0 @F1@ FAM
+1 HUSB @I02@
+1 WIFE @I05@
+1 CHIL @I01@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 1 JAN 1945
+2 PLAC Single
+1 _FA1
+2 DATE 1 JAN 1945
+2 PLAC Annulment
+1 _DETS
+2 DATE 1 JAN 1945
+2 PLAC Death of one spouse
+1 DIV
+2 DATE 1 JAN 1945
+2 PLAC Divorce
+1 DIVF
+2 DATE 1 JAN 1945
+2 PLAC Divorce Filed
+1 ENGA
+2 DATE 1 JAN 1945
+2 PLAC Engagement
+1 MARL
+2 DATE 1 JAN 1945
+2 PLAC Marriage License
+1 MARB
+2 DATE 1 JAN 1945
+2 PLAC Marriage Bann
+1 MARC
+2 DATE 1 JAN 1945
+2 PLAC Marriage Contract
+1 MARS
+2 DATE 1 JAN 1945
+2 PLAC Marriage Settlement
+1 _MSTAT Single
+1 _MEND Annulment
+1 REFN RFJJ89A
+1 NOTE @NF1@
+0 @NF1@ NOTE
+1 CONC Family Note
+0 @F2@ FAM
+1 HUSB @I03@
+1 WIFE @I04@
+1 CHIL @I02@
+2 _FREL Natural
+2 _MREL Natural
+0 @F3@ FAM
+1 HUSB @I06@
+1 WIFE @I07@
+1 CHIL @I05@
+2 _FREL Natural
+2 _MREL Natural
+0 TRLR

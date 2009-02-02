@@ -1,0 +1,491 @@
+\title Installation
+\ident Installation
+\keys Installation
+\browse Getting Started
+\heading Installation
+
+{\S3 }Download the latest version of ged2csv
+{\S3 }Run the downloaded executable by double-clicking it in Explorer
+{\S3 }Click {\b Next }on the {\i Welcome to the InstallSheild Wizard for Ged2Csv} screen
+{\S3 }Read the Licence Agreement and agree to the terms.  Click {\b Next }to continue
+{\S3 }Change to destination folder if you don't like the default.  Otherwise, just click {\b Next }to continue
+{\S3 }Click {\b Install }to begin the installation process
+{\S3 }Click {\b Finish} when the installation is complete
+\page
+\title Installed Files
+\ident Installed_Files
+\keys Installed Files;ged2csv.cnt;ged2csv.exe;ged2csv.hlp;ged2csv.ini;ged2csv.vpl;license_agreement.rtf;readme.rtf;sample.ged;;VP.dll
+\browse Getting Started
+\heading Installed Files
+
+For reference, these files are the files installed during the initial installation process:
+
+ged2csv.cnt
+ged2csv.exe
+ged2csv.hlp
+ged2csv.ini
+ged2csv.vpl
+license_agreement.rtf
+readme.rtf
+sample.ged
+VP.dll
+\page
+\title Basic Operations
+\ident Basic_Operations
+\keys Basic Operations;Open;Save 
+\browse Getting Started
+\heading Basic Operations
+
+{\b\cf0 Output using Default Options}
+If you've just installed Ged2Csv, then all the options are set at the defaults.  Output will be to a set of comma-delimited files.  No MS Access database will be created.
+
+Here's the procedure to process a gedcom file and create the comma-delimited files:
+{\S3 }Run Ged2Csv by double-clicking executable in Explorer.
+{\S3 }Click the Open button on the toolbar or select Open from the File menu
+{\S3 }Locate a gedcom file (you can use sample.ged included in the application directory if you don't have one handy) and click OK
+{\S3 }When Ged2Csv is finished processing the file, click the Save buttion on the toolbar or select Save from the File menu.
+
+That's all there is to it.
+\page
+\title Uninstallation
+\ident Uninstallation
+\keys Uninstallation
+\browse Getting Started
+\heading Uninstallation
+
+{\S3 }Open the Windows Control Panel
+{\S3 }Open Add/Remove Programs
+{\S3 }Highlight Ged2Csv
+{\S3 }Click Remove
+{\S3 }Once the program is removed, verify that the application's directory was deleted and delete if necessary
+\page
+\title General Options
+\ident General_Options
+\keys Options;General Options;Statistics;Quotes;Quote;Quote Character;Paragraph Separator;Remove quotes;Wrap ;Wrap note lines;Separator
+\browse Tools_Options
+\heading General Options
+\pard\{button , KLink(Options)\} See Also \brdrt
+\pard
+
+\{bmc images\\general_options.bmp\} 
+
+{\b Calculate Statistics}
+Enable/Disable the calculation and display of statistics.  If enabled, these statistics will be calculated and displayed on screen when gedcom processing is finished:
+- Count of Individuals
+- Count and percentage of Males
+- Count and percentage of Females
+- Count and percentage of Unknown sex
+- Count of Unique Surnames
+- Count of Families
+- Count of Master Sources
+- Count of Source Citations
+- Count of Relationships
+- Count of Facts
+- Count of Notes
+{\i Default: Enabled}
+
+{\b Remove quotes from notes and sources}
+Enable/Disable the removal of the double quote character from notes and source.
+{\i Default: Enabled}
+
+{\b Paragraph Separator}
+Character(s) used to separate paragraphs in notes and source.
+{\i Default: <br>}
+
+{\b Wrap note lines}
+Enabling this option will insert a paragraph separator after the word closest to the specified number of characters.
+{\i Default: Disabled and 80 characters}
+\page
+\title Delimited File Options
+\ident Delimited_File_Options
+\keys Options;Delimited File Options;Delimiter;Record ;Record Delimiter;output files;output 
+\browse Tools_Options
+\heading Delimited File Options
+
+\{bmc images\\df_options.bmp\} 
+
+{\b\ul\cf1 General Options}
+
+{\b Enable save to delimited files}
+Enables/Disables output to delimited files
+{\i Default: Enabled}
+
+{\b Enable save after processing}
+Enables/Disables automatic output to delimited files immediately after gedcom processing.
+{\i Default: Disabled}
+
+{\b\ul\cf1 Output Options}
+{\b Record Delimiter}
+Character used to separate {\uldb Record Fields}{\v Citation_Records} in the output files
+{\i Default: ,}
+
+{\b Quote Character}
+Character used to enclose {\uldb Record Fields}{\v Citation_Records} in the output files
+{\i Default: "}
+
+{\b\ul\cf1 Output Files}
+Here you can define the file names used for the output files
+
+{\b Facts}
+{\i Default: fact_list.txt}
+
+{\b Families}
+{\i Default: families_list.txt}
+
+{\b Individuals}
+{\i Default: individuals_list.txt}
+
+{\b Notes}
+{\i Default: note_list.txt}
+
+{\b Relationships}
+{\i Default: relation_list.txt}
+
+{\b Master Sources}
+{\i Default: source_list.txt}
+
+{\b Source Citations}
+{\i Default: citation_list.txt}
+\page
+\title MS Access Database Options
+\ident MS_Access_Database_Options
+\keys Options;MS Access Database Options;Access ;Database ;Fields ;table;Access 2000;Access 97
+\browse Tools_Options
+\heading MS Access Database Options
+
+\{bmc images\\access_options.bmp\} 
+
+NOTE: Ged2Csv will not re-use an existing database file.  If the database file exists in the directory it will be deleted and recreated when you elect to save the output.
+
+
+{\b\ul\cf1 General Options}
+{\b Enable save to MS Access}
+Enables/Disables output to MS Access database
+{\i Default: Disabled}
+
+{\b\ul\cf1 Version Options}
+{\b MS Access Version}
+The MS Access database can be saved as either an Access 97 or an Access 2000 file
+{\i Default: Access 2000}
+
+{\b\ul\cf1 File and Table Name Options}
+Here you can define the database filename and table names for the various tables.  See the {\uldb Record Fields}{\v Citation_Records} topic for more information on the Record Fields that are created in each table.
+
+{\b Filename}
+{\i Default: ged2csv.mdb}
+
+{\b Facts}
+{\i Default: tblFacts}
+
+{\b Families}
+{\i Default: tblFamilies}
+
+{\b Individuals}
+{\i Default: tblIndividuals}
+
+{\b Notes}
+{\i Default: tblNotes}
+
+{\b Relationships}
+{\i Default: tblRelations}
+
+{\b Master Sources}
+{\i Default: tblSources}
+
+{\b Source Citations}
+{\i Default: tblCitations}
+\page
+\title PHP/MySQL Options
+\ident PHP/MySQL_Options
+\keys Options;MySQL;PHP;MySQL
+\browse Tools_Options
+\heading MySQL
+
+\{bmc images\\mysql_options.bmp\}
+\page
+\title Overview
+\ident Upload_to_MySQL_Overview
+\keys Overview
+\browse Tools_Upload to MySQL
+\heading Overview
+
+This function allows your your genealogy data directly into a set of MySQL tables on your web server without having to set up an ODBC connection to the database.
+
+{\uldb How it works}{\v How_it_works}
+\page
+\title How it works
+\ident How_it_works
+\keys How it works
+\browse Tools_Upload to MySQL
+\heading How it works
+
+{\b\cf1 How it works}
+
+{\uldb Overview}{\v Upload_to_MySQL_Overview}
+\page
+\title Citation Records
+\ident Citation_Records
+\keys Citation Records;FactKey;SrcKey;Source
+\browse Output Format
+\heading Record Fields
+
+The record fields are defined below in the following format. 
+{\i Record Name ; Record Length ; Description}
+
+{\b FactKey} ; 20 ; Unique identifier for the fact
+{\b SrcKey} ; 20 ; Unique identifier for the master source to which the citation is attached
+{\b Source} ; 65,535 ; Contains information about the citation
+
+{\i Delimited File Example:}
+"27","S75","District 109, Sub-District E, Page 66<br>"
+\page
+\title Fact Records
+\ident Fact_Records
+\keys Fact Records;IndFamKey;Type;Date;Place/Comments;Place;Comments;FactKey
+\browse Output Format
+\heading Fact Records
+
+The record fields are defined below in the following format. 
+{\i Record Name ; Record Length ; Description}
+
+{\b IndFamKey} ; 20 ; The unique number for the individual or family that the fact belongs to.  This number is the unmodified record identifier for the individual or family from the source gedcom file.
+{\b Type} ; 35 ; Type of fact, such as Birth, Death, Baptism, Burial, etc
+{\b Date} ; 35 ; Date when the fact occurred.  The date format is the same as that used in the source gedcom file.  The format is not modified by ged2csv
+{\b Place/Comments} ; 120 ; Place that the fact occurred or comments about the fact
+{\b FactKey} ; 20 ; Unique number assigned automatically by ged2csv.
+
+{\i Delimited File Example:}
+"I0002","5 Jan 1965","Birth","Paris, France","876"
+\page
+\title Family Records
+\ident Family_Records
+\keys Family Records;FamKey;Spouse1;Spouse2;Spouse;EndStatus;NoteKey
+\browse Output Format
+\heading Family Records
+
+The record fields are defined below in the following format. 
+{\i Record Name ; Record Length ; Description}
+
+{\b FamKey} ; 20 ; A unique number for the family.  This number is the unmodified record identifier for the family from the source gedcom file.
+{\b Spouse1} ; 20 ; IndKey identifying the Husband
+{\b Spouse2} ; 20 ; IndKey identifying the Wife
+{\b EndStatus} ; 120 ; Reason for the end of the marriage; divorse, death of one spouse, etc
+{\b NoteKey} ; 20 ; Unique number for notes attached to this marriage
+
+{\i Delimited File Example:}
+"F0042","I0002","I0003","Divorce","N0908"
+\page
+\title Individual Records
+\ident Individual_Records
+\keys Individual Records;IndKey;Title;Surname;GivenName;Aka;Sex;NoteKey
+\browse Output Format
+\heading Individual Records
+
+The record fields are defined below in the following format. 
+{\i Record Name ; Record Length ; Description}
+
+{\b IndKey} ; 20 ; A unique number for the individual.  This number is the unmodified record identifier for the individual from the source gedcom file
+{\b Title} ; 120 ; Official or unofficial title
+{\b Surname} ; 120 ; Last name
+{\b GivenName} ; 120 ; First and middle names
+{\b Aka} ; 120 ; Also Known As or nickname
+{\b Sex} ; 7 ; Male, Female, or Unknown
+{\b NoteKey} ; 20 ; Unique number for notes attached to this individual
+
+{\i Delimited File Example:}
+"I0002","Duke of Smithville","Smith","Robert","Bob","M","N0005"
+\page
+\title Note Records
+\ident Note_Records
+\keys Note Records;NoteKey;Text
+\browse Output Format
+\heading Note Records
+
+The record fields are defined below in the following format. 
+{\i Record Name ; Record Length ; Description}
+
+{\b NoteKey} ; 20 ; A unique number for the note record. This number is the unmodified record identifier for the note from the source gedcom file
+{\b Text} ; 65,535 ; Text of the note
+
+{\i Delimited File Example:}
+"N0001","Bob married his high school sweetheart."
+\page
+\title Relationship Records
+\ident Relationship_Records
+\keys Relationship Records;IndKey;FamKey
+\browse Output Format
+\heading Relationship Records
+
+The record fields are defined below in the following format. 
+{\i Record Name ; Record Length ; Description}
+
+{\b IndKey} ; 20 ; Unique identifier of the individual
+{\b FamKey} ; 20 ; Unique identifier of the family
+
+{\i Delimited File Example:} 
+"I0002","F0001"
+\page
+\title Source Records
+\ident Source_Records
+\keys Source Records;SrcKey;Text;NoteKey
+\browse Output Format
+\heading Source Records
+
+The record fields are defined below in the following format. 
+{\i Record Name ; Record Length ; Description}
+
+{\b SrcKey} ; 20 ; A unique number for the source record. This number is the unmodified record identifier for the master source from the source gedcom file
+{\b Text} ; 65,535 ; Contains basic information about the master source
+{\b NoteKey} ; 20 ; Contains additional information about the master source
+
+{\i Delimited File Example:}
+"S01583","Title: 1910 Ohio Census","NS0158"
+\page
+\title Known Issues
+\ident Known_Issues
+\keys Known Issues
+\browse Support
+\heading Known Issues
+
+{\b\cf1 Subordinate notes in family records}
+Notes that are subordinate to a family record and do not have their own unique resource identifier within the gedcom file are not imported.  
+
+{\b\cf1 16-bit Character sets}
+Gedcom files saved with some 16-bit character sets may not import properly.  If you have problems with strange characters in text fields, then make sure you export your gedcom file as ANSEL or ASCII before importing it into ged2csv.
+
+{\b\cf1 Alternate gedcom tags}
+Most alternate tags are imported.  For example if an individual has two or more birth tags, they will each be imported and added to the facts file/table in the order they were found in the gedcom file.
+
+The only exception at this time is the Name tag.  Only the first Name tag is imported.
+\page
+\title Supported Gedcom Tags
+\ident Supported_Gedcom_Tags
+\keys Supported Gedcom Tags
+\browse Support
+\heading Supported Gedcom Tags
+
+{\b\cf1 Individual Tags}
+
+{\b Attributes}
+{\i NAME:} Name
+{\i ALIA:} Alias
+{\i TITL:} Title
+{\i SEX:}  Sex
+{\i FAMC:} Family Cross-Link
+{\i NOTE:} Note
+
+{\b Events}
+{\i BIRT:} Birth
+{\i CHR:}  Christening
+{\i DEAT:} Death
+{\i BURI:} Burial
+{\i CREM:} Cremation
+{\i BAPM:} Baptism
+{\i BARM:} Bar Mitzvah
+{\i BASM:} Bas Mitzvah
+{\i BLES:} Blessing
+{\i BAPL:} Baptism (LDS)
+{\i CHRA:} Christening (Adult)
+{\i CONF:} Confirmation
+{\i WILL:} Will
+{\i PROB:} Probate
+{\i OCCU:} Occupation
+{\i SSN:}  Social Security Number
+{\i CENS:} Census
+{\i EMIG:} Emmigration
+{\i IMMI:} Immigration
+{\i RESI:} Residence
+{\i FCOM:} First Communion
+{\i ORDI:} Ordinance
+{\i NATU:} Naturalization
+{\i GRAD:} Graduation
+{\i RETI:} Retirement
+{\i ADOP:} Adoption
+{\i CAST:} Caste
+{\i DSCR:} Physical Description
+{\i EDUC:} Education
+{\i IDNO:} ID Number
+{\i NATI:} Nationality
+{\i NCHI:} Children Count
+{\i NMR:}  Marriage Count
+{\i PROP:} Property/Possessions
+{\i RELI:} Religion
+{\i TITL:} Title
+{\i EVEN:} Custom Event
+
+{\b\cf1 Family Tags}
+
+{\b Attributes}
+{\i HUSB:} Husband
+{\i WIFE:} Wife
+{\i _MEND:} Marriage End Status (oddball Family Tree Maker tag)
+{\i NOTE:} Note
+
+{\b Events }
+{\i DIV: } Divorce
+{\i ANUL:} Anulment
+{\i MARR:} Marriage
+{\i DIVF:} Divorce Filed
+{\i CENS:} Census
+{\i ENGA:} Engagement
+{\i MARB:} Marriage Bann
+{\i MARC:} Marriage Contract
+{\i MARL:} Marriage License
+{\i MARS:} Marriage Settlement
+{\i EVEN:} Custom Event
+\page
+\title Contacting Support
+\ident Contacting_Support
+\keys Contacting Support
+\browse Support
+\heading Contacting Support
+
+{\b\cf1 Support Policy}
+Technical support is provided free of charge to all registered users of ged2csv.  The trial version of ged2csv is also supported, but only before the trial period has expired.
+
+{\b\cf1 Contacting Support}
+To contact Technical Support send an email to:
+{\ul\cf12 support@infused.org}
+
+You should expect to receive a reply within 24 hours.
+\page
+\title Registration
+\ident Registration
+\keys Registration
+\browse Support
+\heading Registration
+
+{\b\cf1 Why Register?}
+
+
+{\b\cf1 How much does it cost?}
+The cost is $25.00 (USD)
+
+{\b\cf1 How to Register}
+Easy.  Just point your browser to:
+{\ul\cf12 http://www.infused.org/software/purchase.htm}
+
+{\b\cf1 Payment Options}
+Sales transactions are currently handled through PayPal payment processing services.  You can use Visa, Master Card, Discover, American Express, or a PayPal transfer to make your purchase.
+
+If, for some reason, you do not want to use PayPal I will accept personal checks.  Once your check clears your registration will be sent vial email.  If you want to pay by personal check please email {\ul\cf12 support@infused.org} and ask for details on paying by check.
+\page
+\title Updates
+\ident Updates
+\keys Updates
+\browse Support
+\heading Updates
+
+{\b\cf1 Update Policy}
+Updated are free for registered users for a minimum of 2 years from the registration date.  Trial version are always free to use for 30 days.
+
+{\b\cf1 Latest Releases}
+Select Tools/Check for Update
+
+The latest release of ged2csv is always available at:
+{\ul\cf12 http://www.infused.org/software/ged2csv}
+
+{\b\cf1 Revision History}
+The complete history of revisions to ged2csv is available at:
+{\ul\cf12 http://www.infused.org/software/ged2csv/revisions.htm}
+\page
