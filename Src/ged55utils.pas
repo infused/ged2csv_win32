@@ -471,7 +471,7 @@ begin
         { If next tag is another NOTE tag, then append it to the previous one (i.e. PAF) }
     else if (Tag = NoteKey) then
       NoteText := NoteText + ParaSep;
-  until ((Lvl <= NOTEBaseLvl) and (Tag <> NoteKey));
+  until ((NOTEBaseLvl = Lvl) and (Tag <> NoteKey));
 
   { Format record and add to Note array }
   if NoteIndex = length(NoteArray) then begin
